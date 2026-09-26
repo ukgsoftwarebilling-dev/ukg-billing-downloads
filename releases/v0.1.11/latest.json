@@ -1,0 +1,11 @@
+{
+  "version": "0.1.11",
+  "notes": "UKG Billing v0.1.11 — Production fixes.\n• Customer records now persist correctly to the local database before billing uses them.\n• Automatic Cloud Sync now reliably processes newly queued changes.\n• Stock audit movements now use database-authoritative stock to prevent stale-stock audit failures or duplicate deductions.\n• Cloud Sync settings and validation now use the authenticated session correctly with clearer status reporting.\n• Cloud Test Connection now uses a valid organization-scoped endpoint.",
+  "pub_date": "2026-09-26T14:05:23.931Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkoyR3d4YjVVTXBmVUxqSDNZRTlIaGZoVFdzUlc3R2UzQlNCa0VmaGNjcTgxZjViMzJoNEd2VXhOL0ttc2FpbmlKS21nL3RXTER4SDNGM1EvRTJFbFpDWFBUR0lMRUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDMxNTIzCWZpbGU6VUtHIEJpbGxpbmdfMC4xLjExX3g2NC1zZXR1cC5leGUKRGlRYmFFc29NT3k3OHkwSzJTbEhHU29RVldCd3RhUVNEZU4rUm5laUxMZFJyenQrUy9OMGFTUGlrQkVwY3FtL3ZZN1hRdWdJNzZYNWc4Yy94amF0QWc9PQo=",
+      "url": "https://github.com/ukgsoftwarebilling-dev/ukg-billing-downloads/releases/download/v0.1.11/UKG-Billing-Setup-v0.1.11.exe"
+    }
+  }
+}

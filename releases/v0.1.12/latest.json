@@ -1,0 +1,11 @@
+{
+  "version": "0.1.12",
+  "notes": "UKG Billing v0.1.12 — Customer Savings Highlight.\n• When a discount applies: original amount with strikethrough, discount/savings amount, “You Saved” message, and a prominent final payable amount.\n• Shown on the billing screen, Add Course estimate, PDF invoice, and thermal receipt/print.\n• Local database and settings are preserved.",
+  "pub_date": "2026-10-01T16:09:25.749Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURkoyR3d4YjVVTWo2SlBFYlk2OFBDV1NEUU1MRy9weWRVVFZlUEg4YVVTTDlxN3B4UCt5N0FPODE1K1JlWG5WNUdxVENvRlhiM2FiTTArc2s3STkwOVdrN2Q1KzNOL2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODcwOTY1CWZpbGU6VUtHIEJpbGxpbmdfMC4xLjEyX3g2NC1zZXR1cC5leGUKOVBPOThDMWpLRzRvQTdjT0V1WVhnN3hzRWhtdWdLS1h1UURlTE9hZG5VcFpjQzl5aHVsdjQyY1lleUVpdy9PSVI4RVl1aTBOU2F0R1pOVUd6YitVQ1E9PQo=",
+      "url": "https://github.com/ukgsoftwarebilling-dev/ukg-billing-downloads/releases/download/v0.1.12/UKG-Billing-Setup-v0.1.12.exe"
+    }
+  }
+}
